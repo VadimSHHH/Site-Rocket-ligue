@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'red_rocketregular';
-    src: url('/Police/RK/redrocket-webfont.woff') format('woff2'),
-         url('/Police/RK/redrocket-webfont.woff2') format('woff');
+    src: url('Police/RK/redrocket-webfont.woff') format('woff2'),
+         url('Police/RK/redrocket-webfontwoff2.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -10,7 +10,7 @@
 body{
     margin: 0;
     font-family: 'Verdana', 'Open Sans', 'sans-serif';
-    background-image: url(/img/thumb-1920-628593.jpg);
+    background-image: url(img/thumb-1920-628593.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
